@@ -1,4 +1,11 @@
 ### Hi there 👋
+##I am FlosWelt aka Florian
+
+- 🔭 I’m currently working on a Discord Bot
+- 🌱 I’m currently learning JavaScript
+- 🤔 I’m looking for help with Html/Css
+- 📫 How to reach me: Viava Discord [Discord](https://discord.gg/EggDTxR8zk) or [Email](mailto:kontakt@floswelt.com)
+- ⚡ Fun fact: I have Dog
 
 <!--
 **FlosWelt/FlosWelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
