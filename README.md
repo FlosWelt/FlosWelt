@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Discord Bot
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with Html/Css
-- 📫 How to reach me: Viava Discord [Discord](https://discord.gg/EggDTxR8zk) or [Email](mailto:kontakt@floswelt.com)
+- 📫 How to reach me: Via Discord [Discord](https://discord.gg/EggDTxR8zk) or [Email](mailto:kontakt@floswelt.com)
 - ⚡ Fun fact: I have Dog
 
 <!--
