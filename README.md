@@ -1,5 +1,5 @@
 ### Hi there 👋
-##I am FlosWelt aka Florian
+### I am FlosWelt aka Florian
 
 - 🔭 I’m currently working on a Discord Bot
 - 🌱 I’m currently learning JavaScript
