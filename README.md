@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on a Discord Bot
 - 🌱 I’m currently learning Vuejs
-<!-- 🤔 I’m looking for help with Html/Css-->
 - 📫 How to reach me: Via Discord [Discord](https://discord.gg/EggDTxR8zk) or [Email](mailto:kontakt@floswelt.com)
-- ⚡ Fun fact: I have Dog
+- ⚡ Fun fact: I am dumb
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/581545129345810438
                             )](https://discord.com/users/581545129345810438)
@@ -22,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!-- 🤔 I’m looking for help with Html/Css-->
 -->
