@@ -8,6 +8,8 @@
 
 ![Floswelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlosWelt&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlosWelt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/581545129345810438
                             )](https://discord.com/users/581545129345810438)
