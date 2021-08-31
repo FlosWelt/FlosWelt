@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning Vuejs
 - 📫 How to reach me: Via Discord [Discord](https://discord.gg/EggDTxR8zk) or [Email](mailto:kontakt@floswelt.com)
 - ⚡ Fun fact: I am dumb
+![Floswelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlosWelt&show_icons=true&theme=gruvbox)
+
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/581545129345810438
                             )](https://discord.com/users/581545129345810438)
