@@ -1,10 +1,8 @@
 ### Hi there 👋
 ### I am FlosWelt aka Florian
 
-- 🔭 I’m currently working on a Discord Bot
-- 🌱 I’m currently learning Vuejs
-- 📫 How to reach me: Via Discord [Discord](https://discord.gg/EggDTxR8zk) or [Email](mailto:kontakt@floswelt.com)
-- ⚡ Fun fact: I am dumb
+Im building diffrent stuff somtimes OpenSource
+- 📫 How to reach me: Via [Email](mailto:contact@floswelt.com) or Social Media
 
 ![Floswelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlosWelt&show_icons=true&theme=tokyonight)
 
