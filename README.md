@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am FlosWelt aka Florian
+### I am Florian
 
 Im building diffrent stuff somtimes OpenSource
 - 📫 How to reach me: Via [Email](mailto:contact@floswelt.com) or Social Media
